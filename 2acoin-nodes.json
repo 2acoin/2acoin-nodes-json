@@ -3,31 +3,31 @@
     {
       "name": "US-CENTRAL-01",
       "url": "207.148.3.16",
-      "port": 17890,
+      "port": 17910,
       "ssl": false
     },
     {
       "name": "US-CENTRAL-02",
       "url": "207.148.6.195",
-      "port": 17890,
+      "port": 17910,
       "ssl": false
     },
     {
       "name": "US-CENTRAL-03",
       "url": "45.76.232.71",
-      "port": 17890,
+      "port": 17910,
       "ssl": false
     },
     {
       "name": "US-EAST",
       "url": "144.202.29.252",
-      "port": 17890,
+      "port": 17910,
       "ssl": false
     },    
     {
       "name": "US-WEST",
       "url": "45.63.35.51",
-      "port": 17890,
+      "port": 17910,
       "ssl": false
     }
   ]

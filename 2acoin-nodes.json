@@ -3,7 +3,7 @@
     {
       "name": "2ACoin Blockchain Cache",
       "url": "blockapi.2acoin.org",
-      "port": 90,
+      "port": 80,
       "ssl": false,
       "cache": true
     },
